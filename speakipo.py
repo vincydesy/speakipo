@@ -16,7 +16,7 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException,
 import time
 
 # Configura l'API di OpenAI
-openai.api_key = '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'
+openai.api_key = 'your gpt api'
 
 # Variabile globale per mantenere l'URL corrente
 current_url = None
